@@ -1,1 +1,2 @@
-ls -lan
+#!/bin/bash
+echo "$(ls -lan)"
