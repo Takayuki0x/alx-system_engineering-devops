@@ -1,2 +1,2 @@
 #!/bin/bash
-for dir in $(pwd) .. /boot; do echo "$dir:"; ls -al "$dir" | wc -l; echo; done
+echo "$(ls -lan .) $(ls -lan ..) $(ls -lan /boot)"
