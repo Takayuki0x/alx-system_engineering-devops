@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ".: \n $(ls -lan .) \n $(ls -lan ..) \n $(ls -lan /boot)"
+echo -e ".: \n $(ls -lan .) \n $(ls -lan ..) \n $(ls -lan /boot)"
