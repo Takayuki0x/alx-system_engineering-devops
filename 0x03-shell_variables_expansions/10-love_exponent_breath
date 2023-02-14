@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((BREATH^Love)\n)"
+echo "$((BREATH^LOVE))"
